@@ -1,0 +1,14 @@
+.memberDiv {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.memberDiv img {
+    width: 200px;
+    height: 200px;
+}
+.memberDiv svg {
+    width: 40px;
+    padding: 1px;
+    border-radius: 10px;
+}
